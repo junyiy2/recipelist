@@ -8,3 +8,7 @@ Salt
 Lime
 
 ## Instructions
+Combine in PyTorch.
+python main.py
+
+Copyright
